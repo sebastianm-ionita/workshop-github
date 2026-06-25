@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+# Repository directory
+/repos/
+
+# Configuration files
+.config*
+
 # Temporary and editor files
 *~
 *swp
@@ -6,6 +13,10 @@
 .\#*
 \#_*\#
 .\#_*
+
+<<<<<<< HEAD
+# Build output directory
+out/
 
 # Build output files
 *.o
@@ -29,3 +40,8 @@
 *.zip
 *.Z
 *.7z
+<<<<<<< HEAD
+
+# Test output files
+log.build.*
+log.run.*
