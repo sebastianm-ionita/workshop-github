@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Repository directory
 /repos/
 
@@ -13,6 +14,7 @@
 \#_*\#
 .\#_*
 
+<<<<<<< HEAD
 # Build output directory
 out/
 
@@ -38,6 +40,7 @@ out/
 *.zip
 *.Z
 *.7z
+<<<<<<< HEAD
 
 # Test output files
 log.build.*
